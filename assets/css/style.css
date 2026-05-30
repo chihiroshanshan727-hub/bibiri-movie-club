@@ -688,6 +688,7 @@ footer p {
   border: 1.5px solid var(--border);
   border-radius: var(--radius-sm);
   padding: 14px 16px;
+  background: red !important; /*テスト*/
 }
 .fear-card-head { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
 .fear-icon { font-size: 1.1rem; }
